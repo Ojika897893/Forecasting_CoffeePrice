@@ -1,4 +1,4 @@
-# forecasting_international_price_of_coffee
+# Forecasting_International_Price_of_Coffee
 
 Check out the PowerPoint for an overview!!!
 
